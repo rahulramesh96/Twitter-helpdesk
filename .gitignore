@@ -1,0 +1,14 @@
+.vscode
+.ipynb_checkpoints
+.cache
+log*
+twitter_scraping
+node_modules
+geckodriver.log
+*.json
+!package.json
+dump
+*.log
+__pycache__
+dist
+*.zip
